@@ -20,12 +20,9 @@
 
 ### Технические требования
 - должно работать в Chrome последней версии
-- использование jQuery и других библиотек не допускается  
-- использование Bootstrap и других CSS фреймворков не допускается  
-- использование Angular/React/Vue и других фреймворков не допускается  
-- можно использовать CSS preprocessors  
-- использовать [eslint (eslint-config-airbnb-base)](https://eslint.org/)
-- рабочее приложение должно быть размещено на GitHub Pages (https://pages.github.com/), это произойдет автоматически при создании `gh-pages` бранча. После чего страница будет доступна по адресу вида https://your-github-account.github.io/name-repository
+- использование библиотек и фреймворков не допускается
+- использование CSS фреймворков не допускается  
+- использование CSS preprocessors не допускается
 
 ## Требования:
 
@@ -37,7 +34,7 @@
 
 `Будет плюсом если:`
 - будут использованы в коде фишки стандарта ES6 и выше (classes, деструктуризация и т.д.)
-- будет использован eslint
+- рабочее приложение будет размещено на GitHub Pages (https://pages.github.com/), это произойдет автоматически при создании `gh-pages` бранча. После чего страница будет доступна по адресу вида https://your-github-account.github.io/name-repository
 
 ## FAQ
 https://www.youtube.com/watch?v=1wefQGlnPis&feature=youtu.be
@@ -53,4 +50,3 @@ https://www.youtube.com/watch?v=1wefQGlnPis&feature=youtu.be
 - [An Introduction To DOM Events](https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)
 - [Keycode](https://keycode.info)
 - [Клавиатура](https://learn.javascript.ru/keyboard-events)
-- [eslint (eslint-config-airbnb-base)](https://eslint.org/)
